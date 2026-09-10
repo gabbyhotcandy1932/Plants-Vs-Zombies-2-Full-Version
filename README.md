@@ -237,3 +237,6 @@ This repository serves as the official landing page for Plants vs. Zombies 2. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Plants vs. Zombies 2 today!**
+
+---
+**Last updated:** 2026-09-10 08:40:26 UTC
